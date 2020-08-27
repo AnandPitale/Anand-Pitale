@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+}
+.topContainer {
+  background-color:#d6e0f0;
+  height: 700px;
+  width: 100%;
+  /*
+  width: 200px;
+  /*align-content: center;
+  border: black;
+  border-style: solid;
+  border-width: 10px;
+  padding: 20px;*/
+}
+#title {
+  margin: 0px;
+  display: inline-block;
+  position: relative;
+  font-size: 79px;
+  top: 201px;
+  color: #056676;
+  font-family: "Allura";
+}
+#info {
+  display: inline-block;
+  position: relative;
+  font-size: 23px;
+  top: 196px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #056676;
+  font-family: "Aladin";
+}
+.cloud1{
+  background-color: transparent;
+  position: relative;
+  left: 450px;
+  bottom: 60px;
+}
+.mountain{
+    background-color: transparent;
+    position: relative;
+    left: 500px;
+    top: 216px;
+}
+.cloud{
+  background-color: transparent;
+  position: absolute;
+  right: 500px;
+  top: 256px;
+}
+.middleContainer{
+    background-color: #f4f4f4;
+    height: 1400px;
+    width: 100%;
+}/*
+.bottomContainer{
+    background-color: #f4f4f4;
+    height: 700px;
+    width: 100%;
+}*/
+.footer{
+  display: inline-block;
+  background-color: #056676;
+  height: 200px;
+  width: 100%;
+  color:  white;
+  font-family: "Aladin";
+}
+.copyright{
+  display: inline-block;
+  color:  white;
+  position: relative;
+  font-size: 23px;
+  top: 71px;
+  font-family: "Aladin";
+
+}
+.linkedin{
+  background-color: transparent;
+  width: 32px;
+  border-radius: 8px;
+  position: relative;
+  left: 165px;
+}
+.insta{
+  background-color: transparent;
+  width: 32px;
+  border-radius: 8px;
+  position: relative;
+  left: 200px;
+}
